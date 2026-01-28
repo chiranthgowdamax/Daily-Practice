@@ -6,10 +6,6 @@ I start from **Day 1** and continue adding folders every day with the code I pra
 
 ---
 
-## 📂 Folder Structure
-
-Daily-Practice/ │ ├── Day-01/ │   ├── practice.py │ ├── Day-02/ │   ├── practice.py │ ├── Day-03/ │   ├── ... │ └── README.md
-
 Each **Day-XX** folder contains:
 - Code written on that day
 - Small programs, exercises, or concepts practiced
@@ -29,14 +25,6 @@ Each **Day-XX** folder contains:
 
 - Language: **Python**
 - Tools: Terminal, Nano, Git, GitHub
-
----
-
-## 📅 Progress Log
-
-- ✅ Day 01 – Started daily practice and repository setup
-
-(More days will be added consistently)
 
 ---
 
